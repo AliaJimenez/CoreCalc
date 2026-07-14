@@ -33,7 +33,7 @@ El código fuente está dividido limpiamente para separar la lógica del negocio
 ### Instrucciones de ejecución
 1. **Clona este repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/CoreCalc.git](https://github.com/tu-usuario/CoreCalc.git)
+   git clone https://github.com/AliaJimenez/CoreCalc
    ```
 2. **Abre el proyecto en NetBeans u otro IDE compatible con Apache Ant utilizando el archivo build.xml**.
 
